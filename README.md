@@ -9,7 +9,7 @@ This project demonstrates a comprehensive automated testing strategy for the **R
 * Execute **Negative Testing** and **Edge Cases** to ensure API resilience.
 
 ## 🛠️ Tech Stack
-* **Postman** (Desktop App)
+* **Postman** (Web App)
 * **JavaScript** (Validation and automation scripts)
 * **JSON Schema** (Data structure and contract validation)
 
