@@ -15,7 +15,7 @@
 		},
 		{
 			"key": "base_url",
-			"value": "",
+			"value": "https://restful-booker.herokuapp.com",
 			"type": "default",
 			"enabled": true
 		},
